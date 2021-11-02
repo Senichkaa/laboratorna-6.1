@@ -1,0 +1,8 @@
+﻿  UnitTest6.1.1.cpp
+C:\Users\Arsen\source\repos\pr.6.1.1\pr.6.1.1\Source.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Arsen\source\repos\pr.6.1.1\pr.6.1.1\Source.cpp(19,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Arsen\source\repos\pr.6.1.1\pr.6.1.1\Source.cpp(31,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Arsen\source\repos\pr.6.1.1\pr.6.1.1\Source.cpp(40,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Arsen\source\repos\pr.6.1.1\pr.6.1.1\Source.cpp(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Arsen\source\repos\pr.6.1.1\pr.6.1.1\Source.cpp(57,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  UnitTest6.1.1.vcxproj -> C:\Users\Arsen\source\repos\pr.6.1.1\Debug\UnitTest6.1.1.dll
